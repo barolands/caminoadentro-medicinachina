@@ -41,7 +41,7 @@ const HeroSection = () => (
         transition={{ duration: 0.8, delay: 0.4 }}
         className="font-body text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed"
       >
-        A través de la Medicina Tradicional China y la escucha terapéutica, te acompaño a entender qué hay detrás de lo que sentís y a aliviarlo desde la raíz.
+         Te acompaño a entender qué hay detrás de lo que sentís y a aliviarlo desde la raíz a través de la Medicina Tradicional China y la escucha terapéutica.
       </motion.p>
       <motion.div
         initial={{ opacity: 0, y: 20 }}
