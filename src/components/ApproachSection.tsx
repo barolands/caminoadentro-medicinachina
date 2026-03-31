@@ -26,7 +26,7 @@ const ApproachSection = () => (
           className="font-body text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed"
         >
           La Medicina Tradicional China entiende el cuerpo y las emociones como un todo.
-          Un sistema intergral donde los síntomas no se tapan, se escuchan.
+          Un sistema integral donde los síntomas no se tapan, se escuchan.
         </motion.p>
       </div>
 
