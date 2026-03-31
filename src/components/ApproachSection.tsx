@@ -33,8 +33,8 @@ const ApproachSection = () => (
       <div className="grid md:grid-cols-3 gap-8">
         {[
           {
-            title: "Acupuntura",
-            desc: "Puntos precisos que desbloquean la energía y permiten que el cuerpo recupere su equilibrio natural.",
+            title: "Qi y meridianos",
+            desc: "Una lectura del cuerpo como redes de energía: ver dónde se frena el flujo y orientar el tratamiento hacia el equilibrio.",
           },
           {
             title: "Regulación del sistema nervioso",
