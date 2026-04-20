@@ -27,7 +27,7 @@ const HeroSection = () => (
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
-        className="font-body text-sm tracking-[0.25em] uppercase text-[#722f37] mb-6 drop-shadow-[0_1px_2px_rgba(255,255,255,0.85)]"
+        className="font-body text-sm tracking-[0.25em] uppercase text-white mb-6 drop-shadow-[0_1px_4px_rgba(0,0,0,0.45)]"
       >
         Acompañamiento integral cuerpo–emoción
       </motion.p>
@@ -43,7 +43,7 @@ const HeroSection = () => (
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 0.4 }}
-        className="font-body text-lg md:text-xl text-[#4a2430] max-w-2xl mx-auto mb-10 leading-relaxed drop-shadow-[0_1px_2px_rgba(255,255,255,0.85)]"
+        className="font-body text-lg md:text-xl text-white max-w-2xl mx-auto mb-10 leading-relaxed drop-shadow-[0_1px_6px_rgba(0,0,0,0.4)]"
       >
         Te acompaño a entender qué hay detrás de lo que sentís y a aliviarlo desde la raíz a través de la Medicina Tradicional China y la escucha terapéutica.
       </motion.p>
@@ -56,7 +56,7 @@ const HeroSection = () => (
         <Button
           variant="heroOutline"
           size="lg"
-          className="border-[#5c2a38] text-[#2d1218] hover:bg-[#3d1a22] hover:border-[#3d1a22] hover:text-cream drop-shadow-[0_1px_2px_rgba(255,255,255,0.8)]"
+          className="border-white text-white hover:bg-white/15 hover:border-white hover:text-white drop-shadow-[0_1px_4px_rgba(0,0,0,0.35)]"
           asChild
         >
           <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
